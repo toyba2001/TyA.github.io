@@ -1,4 +1,4 @@
-# Gbenga Abolarin’s Cybersecurity Portfolio
+# Toyinh Abolarin’s Cybersecurity Portfolio
 
 Welcome to my professional cybersecurity portfolio.  
 This site highlights my skills, certifications, projects, labs, and hands-on experience in cybersecurity and network engineering.
